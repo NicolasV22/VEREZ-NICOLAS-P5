@@ -86,6 +86,8 @@ nav a {
 	font-weight: 800;
 	font-style: italic;
 	width: 60%;
+	font-size: 16px;
+	line-height: 19.2px;
 }
 #about-me p {
 	width: 80%;
