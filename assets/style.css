@@ -45,7 +45,7 @@ nav a {
 
 #header{
 	width: 100%;
-	height: 887px;
+	height: 882px;
 }
 
 #carousel-inner , .carousel-item{
@@ -279,7 +279,7 @@ input[type="submit"] {
 
 @media all and (max-width: 1000px) {
 	#header{
-		height: 457.92px;
+		height: 414px;
 	}
 
 
@@ -373,7 +373,7 @@ input[type="submit"] {
 	}
 	
 	#gallery{
-		height: 2111.88px;
+		height: 2010px;
 	}
 	.picture.left::before, .picture.right::before {
 		height: 150px;
