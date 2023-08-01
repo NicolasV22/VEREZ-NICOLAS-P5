@@ -278,8 +278,14 @@ input[type="submit"] {
 }
 
 @media all and (max-width: 1000px) {
+	#header{
+		height: 457.92px;
+	}
+
+
 	#about{
 		flex-direction: column;
+		height: 857.28px;
 
 	}
 	.picture {
@@ -301,6 +307,11 @@ input[type="submit"] {
 	#services .container {
 		flex-direction: column;
 	}
+
+	#gallery{
+		height: 1413.23px;
+	}
+
 	.service {
 		width: 100%;
 		max-width: 100%;
@@ -341,6 +352,8 @@ input[type="submit"] {
 		flex-direction: column;
 		padding-inline: 0;
 	}
+
+
 	nav, nav ul {
 		width: 100%;
 		padding: 0 0 0 0;
@@ -349,6 +362,18 @@ input[type="submit"] {
 		flex: 1;
 		padding-block: 1em;
 		text-align: center;
+	}
+
+	#header{
+		height: 299.73px;
+	}
+
+	#about{
+		height: 854.47px;
+	}
+	
+	#gallery{
+		height: 2111.88px;
 	}
 	.picture.left::before, .picture.right::before {
 		height: 150px;
