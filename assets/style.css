@@ -49,6 +49,8 @@ nav a {
 	padding-inline: 100px;
 	padding-block: 100px;
 	position: relative;
+	width: 100%;
+	height: 594,75px;
 }
 
 .picture.left::before {
