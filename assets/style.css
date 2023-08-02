@@ -45,7 +45,7 @@ nav a {
 
 #header{
 	width: 100%;
-	height: 880px;
+	height: 878px;
 }
 
 #carousel-inner , .carousel-item{
@@ -60,8 +60,9 @@ nav a {
 	padding-block: 100px;
 	position: relative;
 	width: 100%;
-	height: 594.75px;
+	height: 753px;
 }
+
 
 .picture.left::before {
 	content: ' ';
@@ -98,7 +99,7 @@ nav a {
 	font-weight: 800;
 	font-style: italic;
 	width: 60%;
-	font-size: 16px;
+	font-size: 17px;
 	line-height: 19.2px;
 }
 #about-me p {
